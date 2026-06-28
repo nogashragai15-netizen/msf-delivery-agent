@@ -217,5 +217,5 @@ The system is designed as a **decision-support tool**, not an autonomous actor. 
 
 ## Author
 
-Noga Sagi — Project Manager & Data Lead, Michal Sela Forum
+Noga Shragai — Project Manager & Data Lead, Michal Sela Forum
 Kaggle 5-Day AI Agents Intensive, June–July 2026
