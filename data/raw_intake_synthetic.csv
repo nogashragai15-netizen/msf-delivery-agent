@@ -1,0 +1,51 @@
+raw_id,recipient_placeholder_name,item_description,request_date,fulfillment_date,responsible_staff_id,responsible_staff_name
+RAW-0020,Noa,Mobile panic button app authorization,2026-04-16,2026-05-23,STAFF-02,Ronit
+RAW-0042,Dana,Security camera installation,2026-05-08,,STAFF-02,Ronit
+RAW-0048,Adi,Security camera installation,2026-04-29,,STAFF-03,Eyal
+RAW-0010,Hila,Physical panic button device,2026-04-30,2026-05-20,STAFF-03,Eyal
+RAW-0034,Inbar,Mobile panic button app authorization,2026-05-17,,STAFF-01,Avital
+RAW-0040,Keren,Physical panic button device,2026-05-17,,STAFF-01,Avital
+RAW-0006,Tamar,Mobile panic button app authorization,2026-04-27,2026-05-16,STAFF-04,Galit
+RAW-0039,Noa,Mobile panic button app authorization,2026-05-17,,STAFF-02,Ronit
+RAW-0013,Keren,Mobile panic button app authorization,2026-04-24,2026-06-05,STAFF-03,Eyal
+RAW-0002,Noa,Physical panic button device,2026-04-18,2026-04-22,STAFF-02,Ronit
+RAW-0011,Or,Security camera installation,2026-04-16,2026-05-25,STAFF-01,Avital
+RAW-0046,Tamar,Mobile panic button app authorization,2026-04-28,,STAFF-04,Galit
+RAW-0035,Maya,Mobile panic button app authorization,2026-05-17,,STAFF-03,Eyal
+RAW-0031,Keren,Physical panic button device,2026-05-19,,STAFF-04,Galit
+RAW-0025,Gali,Security camera installation,2026-05-25,,STAFF-04,Galit
+RAW-0017,Shira,Security camera installation,2026-04-19,2026-05-23,STAFF-02,Ronit
+RAW-0027,Or,Physical panic button device,2026-05-27,,STAFF-03,Eyal
+RAW-0012,Maya,Physical panic button device,2026-04-13,2026-05-18,STAFF-04,Galit
+RAW-0023,Yael,Security camera installation,2026-06-12,,STAFF-04,Galit
+RAW-0021,Inbar,Security camera installation,2026-06-04,,STAFF-02,Ronit
+RAW-0043,Maya,Mobile panic button app authorization,2026-04-30,,STAFF-01,Avital
+RAW-0007,Talia,Security camera installation,2026-04-16,2026-04-22,STAFF-01,Avital
+RAW-0037,Liat,Mobile panic button app authorization,2026-05-18,,STAFF-03,Eyal
+RAW-0026,Yael,Security camera installation,2026-06-10,,STAFF-02,Ronit
+RAW-0008,Shira,Mobile panic button app authorization,2026-05-03,2026-05-08,STAFF-04,Galit
+RAW-0050,Dana,Physical panic button device,2026-04-27,,STAFF-03,Eyal
+RAW-0028,Shira,Security camera installation,2026-06-07,,STAFF-04,Galit
+RAW-0019,Keren,Mobile panic button app authorization,2026-04-10,2026-05-13,STAFF-01,Avital
+RAW-0029,Maya,Physical panic button device,2026-05-21,,STAFF-04,Galit
+RAW-0030,Noa,Physical panic button device,2026-05-25,,STAFF-01,Avital
+RAW-0024,Tamar,Physical panic button device,2026-05-25,,STAFF-03,Eyal
+RAW-0009,Maya,Physical panic button device,2026-05-09,2026-05-22,STAFF-03,Eyal
+RAW-0014,Inbar,Physical panic button device,2026-04-23,2026-06-05,STAFF-01,Avital
+RAW-0032,Keren,Security camera installation,2026-05-16,,STAFF-04,Galit
+RAW-0018,Or,Mobile panic button app authorization,2026-04-01,2026-05-12,STAFF-03,Eyal
+RAW-0016,Yael,Physical panic button device,2026-04-16,2026-05-27,STAFF-04,Galit
+RAW-0033,Liat,Mobile panic button app authorization,2026-05-19,,STAFF-03,Eyal
+RAW-0044,Noa,Physical panic button device,2026-04-30,,STAFF-02,Ronit
+RAW-0022,Hila,Physical panic button device,2026-06-13,,STAFF-02,Ronit
+RAW-0003,Keren,Mobile panic button app authorization,2026-04-28,2026-04-30,STAFF-01,Avital
+RAW-0045,Yael,Mobile panic button app authorization,2026-04-29,,STAFF-02,Ronit
+RAW-0047,Or,Mobile panic button app authorization,2026-05-06,,STAFF-02,Ronit
+RAW-0004,Tamar,Physical panic button device,2026-05-04,2026-05-21,STAFF-01,Avital
+RAW-0041,Maya,Security camera installation,2026-05-04,,STAFF-01,Avital
+RAW-0005,Liat,Mobile panic button app authorization,2026-05-05,2026-05-28,STAFF-01,Avital
+RAW-0001,Dana,Mobile panic button app authorization,2026-04-18,2026-04-27,STAFF-01,Avital
+RAW-0049,Tamar,Security camera installation,2026-05-08,,STAFF-01,Avital
+RAW-0038,Hila,Mobile panic button app authorization,2026-05-17,,STAFF-01,Avital
+RAW-0015,Hila,Security camera installation,2026-04-23,2026-06-06,STAFF-01,Avital
+RAW-0036,Adi,Security camera installation,2026-05-19,,STAFF-02,Ronit

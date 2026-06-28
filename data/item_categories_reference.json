@@ -1,0 +1,19 @@
+{
+  "_comment": "Source of truth for item categories and SLA target. Used by data/generate_synthetic_data.py to simulate realistic case timing, and by the flagging-sla-breaches skill as its SLA reference table. Edit here only - do not duplicate these numbers elsewhere.",
+  "_sla_policy": "Confirmed by Noga: all three items should arrive within 30 days of request, delivered at different points during that window (staggered is normal, not a problem). A case is late only once 30 days have passed without fulfillment.",
+  "panic_button_device": {
+    "description": "Physical panic button device",
+    "fulfillment_type": "physical_delivery",
+    "sla_target_days": 30
+  },
+  "security_camera": {
+    "description": "Security camera installation",
+    "fulfillment_type": "physical_delivery",
+    "sla_target_days": 30
+  },
+  "mobile_panic_app": {
+    "description": "Mobile panic button app authorization",
+    "fulfillment_type": "vendor_installation_not_instant",
+    "sla_target_days": 30
+  }
+}
